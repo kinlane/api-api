@@ -7,7 +7,7 @@
       "keywords": "APIs,API Evangelist,API",
       "license": "http://creativecommons.org/licenses/by-sa/3.0/deed.en_US",
       "attribution": "API Evangelist",
-      "url": "http://apicommons.org/api-commons-manifest.json",
+      "url": "https://raw.githubusercontent.com/kinlane/api-api/master/api-commons-manifest.json",
       "definitions": [
         {
           "type": "swagger",
